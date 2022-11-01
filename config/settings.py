@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'MTV.apps.MtvConfig',
     'common.apps.CommonConfig',
     'storages',
+    'cacheops',
     
 ]
 
